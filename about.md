@@ -12,6 +12,8 @@ A place to include any other types of information that you'd like to include abo
 
 Colarado Chipmumk: ![](https://raw.githubusercontent.com/mfaustin/mfaustin.github.io/master/images/DSCF1412.JPG)
 
+Colarado Chipmumk 2: ![](/images/DSCF1412.JPG)
+
 
 ### Contact me
 
