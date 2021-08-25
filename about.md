@@ -11,7 +11,9 @@ Some information about you!
 A place to include any other types of information that you'd like to include about yourself.
 
 
-[Salem Lake Trail Races](https://runsignup.com/Race/NC/WinstonSalem/SalemLake30kand7mileTrailRuns)
+[Salem Lake 30K and 7 Mile Trail Races](https://runsignup.com/Race/NC/WinstonSalem/SalemLake30kand7mileTrailRuns)
+
+[Salem Lake Frosty 50K and 25K Trail Races](https://runsignup.com/Race/NC/WinstonSalem/SalemLakeshoreFrostyFifty50k25kand50kRelay)
 
 Colorado Chipmunk: ![](/images/DSCF1412.JPG)
 
