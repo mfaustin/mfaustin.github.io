@@ -10,9 +10,8 @@ Some information about you!
 
 A place to include any other types of information that you'd like to include about yourself.
 
-Colarado Chipmunk: ![](https://raw.githubusercontent.com/mfaustin/mfaustin.github.io/master/images/DSCF1412.JPG)
 
-Colarado Chipmunk 2: ![](/images/DSCF1412.JPG)
+Colorado Chipmunk 2: ![](/images/DSCF1412.JPG)
 
 
 ### Contact me
