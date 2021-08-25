@@ -11,6 +11,8 @@ Some information about you!
 A place to include any other types of information that you'd like to include about yourself.
 
 
+[Salem Lake Trail Races](https://runsignup.com/Race/NC/WinstonSalem/SalemLake30kand7mileTrailRuns)
+
 Colorado Chipmunk: ![](/images/DSCF1412.JPG)
 
 Mount Ranier: ![](/images/MtRanier.jpg) 
