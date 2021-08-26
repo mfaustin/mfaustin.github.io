@@ -11,12 +11,17 @@ I've had a variety of academic and career experiences.
 
 Broadly speaking my focal areas with examples have included: 
 
-* Research 
+* Research  
+    + Botany 
+    + Biostatistics  
 
-* Software Development
+* Software Development  
+    + Software Automation
+    + Software Testing
 
 * Mentoring/Teaching
-
+    + Botany Labs
+    + Mentoring Junior Staff
 
 
 I'm currently enrolled in the NC State University Master of Statistics program.
