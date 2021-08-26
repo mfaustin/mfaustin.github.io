@@ -13,7 +13,7 @@ I've had a variety of academic and career experiences.  Broadly speaking my foca
 I'm currently enrolled in the NC State University Master of Statistics program.
 
 
-### Other Inrerests
+### Other Interests
 
 #### Long Distance Running
 
