@@ -12,7 +12,7 @@ I've had a variety of academic and career experiences.
 Broadly speaking my focal areas with examples have included: 
 
 * Research  
-    + Botany 
+    + Botany--[Alleopathy Research with Dr. Udo Blum](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yS4zCZkAAAAJ&cstart=20&pagesize=80&citation_for_view=yS4zCZkAAAAJ:SP6oXDckpogC) 
     + Biostatistics  
 
 * Software Development  
