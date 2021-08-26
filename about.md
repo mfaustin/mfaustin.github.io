@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### Academic and Career 
 
-A place to include any other types of information that you'd like to include about yourself.
+I've had a variety of academic and career experiences.  Broadly speaking my focal areas have included research, software development, and teaching.
+
 
 
 [Salem Lake 30K and 7 Mile Trail Races](https://runsignup.com/Race/NC/WinstonSalem/SalemLake30kand7mileTrailRuns)
