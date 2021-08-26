@@ -16,8 +16,8 @@ Broadly speaking my focal areas with examples have included:
     + Biostatistics--[Wake Forest Medical School](https://school.wakehealth.edu/Departments/Biostatistics-and-Data-Science) Staff Biostatistician  
 
 * Software Development  
-    + Software Automation--Developed and Maintained Complex Test Automation Systems
-    + Software Testing--
+    + Software Automation--Developed Complex Test Automation Systems
+    + Software Testing--Quality Assurance for Statistical and Data Software
 
 * Mentoring/Teaching
     + Botany Labs--Taught Introductory Botany Labs at NC State University
