@@ -7,7 +7,16 @@ permalink: /about/
 
 ### Academic and Career Interests 
 
-I've had a variety of academic and career experiences.  Broadly speaking my focal areas have included research, software development, and mentoring/teaching.
+I've had a variety of academic and career experiences.  
+
+Broadly speaking my focal areas with examples have included: 
+
+* Research 
+
+* Software Development
+
+* Mentoring/Teaching
+
 
 
 I'm currently enrolled in the NC State University Master of Statistics program.
@@ -18,6 +27,8 @@ I'm currently enrolled in the NC State University Master of Statistics program.
 #### Long Distance Running
 
 I've been running since high school.  I've continued running as a way to support my health and be outside.
+
+
 
 
 [Salem Lake 30K and 7 Mile Trail Races](https://runsignup.com/Race/NC/WinstonSalem/SalemLake30kand7mileTrailRuns)
