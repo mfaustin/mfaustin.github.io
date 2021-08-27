@@ -43,11 +43,15 @@ I highly recommend the following wide trail races held on primary dirt trails wi
 
 #### Nature/Travel
 
-Colorado Chipmunk: ![](/images/DSCF1412.JPG)
+I enjoy travel and visiting natural areas.
 
-Mount Ranier: ![](/images/MtRanier.jpg) 
+Here are some places I've visited.
 
-Blue Ridge Parkway: ![](/images/ParkWayButterfly.jpg) 
+**Near Leadville Colarado**: ![](/images/DSCF1412.JPG)
+
+**Mount Ranier**: ![](/images/MtRanier.jpg) 
+
+**NC Blue Ridge Parkway**: ![](/images/ParkWayButterfly.jpg) 
 
 ### Contact me
 
