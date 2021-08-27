@@ -9,7 +9,7 @@ permalink: /about/
 
 I've had a variety of academic and career experiences.  
 
-Broadly speaking my focal areas with examples have included: 
+Broadly speaking some focal areas with examples have included: 
 
 * Research  
     + Botany--[Alleopathy](https://en.wikipedia.org/wiki/Allelopathy) [Research](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yS4zCZkAAAAJ&cstart=20&pagesize=80&citation_for_view=yS4zCZkAAAAJ:SP6oXDckpogC) with [NCSU Plant Biology](https://cals.ncsu.edu/plant-and-microbial-biology/about/)
@@ -34,8 +34,7 @@ I'm currently enrolled in the NC State University Master of Statistics program.
 
 I've been running since high school.  I've continued running as a way to support my health and be outside.
 
-
-
+I highly recommend the following wide trail races held on primary dirt trails with a few paved greenway sections.
 
 [Salem Lake 30K and 7 Mile Trail Races](https://runsignup.com/Race/NC/WinstonSalem/SalemLake30kand7mileTrailRuns)
 
