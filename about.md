@@ -26,7 +26,7 @@ Broadly speaking some focal areas with examples have included:
     + Mentoring Junior Staff
 
 
-I'm currently enrolled in the NC State University **Master of Statistics** program.  I'm wanting to develop a deeper understanding of research from a statistical point of view and continue to expand my computing experience.
+I'm currently enrolled in the NC State University **Master of Statistics** program.  I'm developing a deeper understanding of research from a statistical point of view and continuing to expand my computing expertise.
 
 
 ### Other Interests
