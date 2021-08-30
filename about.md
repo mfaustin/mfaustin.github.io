@@ -18,7 +18,7 @@ Broadly speaking some focal areas with examples have included:
 * Software Development  
     + Software Automation--Developed Complex Test Automation Systems
     + Software Testing--Quality Assurance for Statistical and Data Software
-    + Technical Leadership--Initiated and Led Process Improvment Projects
+    + Technical Leadership--Initiated and Led Process Improvement Projects
 
 * Mentoring/Teaching
     + Botany Labs--Taught Introductory Botany Labs at NC State University
