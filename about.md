@@ -43,7 +43,7 @@ I highly recommend the following wide trail races held on primary dirt trails wi
 
 #### Nature/Travel
 
-I enjoy travel and visiting natural areas.
+I enjoy traveling and visiting natural areas.
 
 Here are some places I've visited.
 
