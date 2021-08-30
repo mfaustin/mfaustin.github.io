@@ -49,7 +49,7 @@ Here are some places I've visited.
 
 **Near Leadville Colorado**: ![](/images/DSCF1412.JPG)
 
-**Mount Ranier**: ![](/images/MtRanier.jpg) 
+**Mount Rainier**: ![](/images/MtRanier.jpg) 
 
 **NC Blue Ridge Parkway**: ![](/images/ParkWayButterfly.jpg) 
 
