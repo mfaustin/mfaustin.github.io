@@ -47,7 +47,7 @@ I enjoy traveling and visiting natural areas.
 
 Here are some places I've visited.
 
-**Near Leadville Colarado**: ![](/images/DSCF1412.JPG)
+**Near Leadville Colorado**: ![](/images/DSCF1412.JPG)
 
 **Mount Ranier**: ![](/images/MtRanier.jpg) 
 
