@@ -33,9 +33,9 @@ I'm currently enrolled in the NC State University **Master of Statistics** progr
 
 #### Long Distance Running
 
-I've been running since high school.  I've continued running as a way to support my health and be outside.
+I've been running since high school.  I've continued running as a way to support my health and to be outside.
 
-I highly recommend the following wide trail races held on primary dirt trails with a few paved greenway sections.
+I highly recommend the following trail races held primarily on wide dirt trails with a few paved greenway sections.
 
 [Salem Lake 30K and 7 Mile Trail Races](https://runsignup.com/Race/NC/WinstonSalem/SalemLake30kand7mileTrailRuns)
 
@@ -46,7 +46,7 @@ I highly recommend the following wide trail races held on primary dirt trails wi
 
 I enjoy traveling and visiting natural areas.
 
-Here are some places I've visited.
+Here are photos from natural areas I've visited.
 
 **Near Leadville Colorado**: ![](/images/DSCF1412.JPG)
 
