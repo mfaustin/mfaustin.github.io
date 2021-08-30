@@ -12,7 +12,7 @@ I've had a variety of academic and career experiences.
 Broadly speaking some focal areas with examples have included: 
 
 * Research  
-    + Botany--[Research](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yS4zCZkAAAAJ&cstart=20&pagesize=80&citation_for_view=yS4zCZkAAAAJ:SP6oXDckpogC) in [Alleopathy](https://en.wikipedia.org/wiki/Allelopathy)  with [NCSU Plant Biology](https://cals.ncsu.edu/plant-and-microbial-biology/about/)
+    + Botany--[Research](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yS4zCZkAAAAJ&cstart=20&pagesize=80&citation_for_view=yS4zCZkAAAAJ:SP6oXDckpogC) in [Alleopathy](https://en.wikipedia.org/wiki/Allelopathy)  with [NCState University Plant Biology](https://cals.ncsu.edu/plant-and-microbial-biology/about/)
     + Biostatistics--[Wake Forest Medical School](https://school.wakehealth.edu/Departments/Biostatistics-and-Data-Science) Staff Biostatistician  
 
 * Software Development  
