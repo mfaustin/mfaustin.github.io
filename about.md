@@ -17,7 +17,7 @@ Broadly speaking some focal areas with examples have included:
 
 * Software Development  
     + Software Automation--Developed Complex Test Automation Systems
-    + Software Testing--Quality Assurance for Statistical and Data Software
+    + Software Testing--Quality Assurance for Statistical and Data Management Software
     + Technical Leadership--Initiated and Led Process Improvement Projects
 
 * Mentoring/Teaching
