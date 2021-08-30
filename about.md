@@ -22,7 +22,7 @@ Broadly speaking some focal areas with examples have included:
 
 * Mentoring/Teaching
     + Botany Labs--Taught Introductory Botany Labs at NC State University
-    + Technical Presentations--Many "How To" Topics
+    + Technical Presentations--Gave Talks on Many "How To" Topics
     + Mentoring Junior Staff
 
 
