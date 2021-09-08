@@ -1,7 +1,7 @@
 Programming Background
 ================
 Mark Austin
-9/14/2021
+9/08/2021
 
 ## Class Post 2–R and Other Languages
 
@@ -59,4 +59,4 @@ positive R foundation experiences.
 plot(iris)
 ```
 
-![](../images/unnamed-chunk-3-1.png)<!-- -->
+![](../images/unnamed-chunk-1-1.png)<!-- -->
