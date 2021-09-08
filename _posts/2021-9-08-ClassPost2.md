@@ -3,9 +3,9 @@ Programming Background
 Mark Austin
 9/08/2021
 
-## Class Post 2–R and Other Languages
+## R and Other Software
 
--   R vs other software I’ve used?
+-   R compared to other software I’ve used?
 
 Before this class, my R experience was limited to R simulation work in
 the first semester statistical theory class. I’ve had much more
