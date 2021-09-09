@@ -1,7 +1,7 @@
 Programming Background
 ================
 Mark Austin
-9/08/2021
+Post Due 9/14/2021
 
 ## R and Other Software
 
@@ -53,7 +53,7 @@ harder to focus. One of the main benefits of this class so far has been
 having a coherent learning path that builds on itself to help develop
 positive R foundation experiences.
 
-## R Markdown Output
+## Example R Markdown Output
 
 ``` r
 plot(iris)
