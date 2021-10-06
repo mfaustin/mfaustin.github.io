@@ -5,9 +5,9 @@ title: Project One 558
 ## Project One Overview  
 For project one, I chose to work with the pokemon the [Pokemon API](https://pokeapi.co/) using [Pokemon API Documentation](https://pokeapi.co/docs/v2).  
 
-My project one github pages repo is at [https://mfaustin.github.io/ProjectOne558/](https://mfaustin.github.io/ProjectOne558/)
+My project one github pages project is at [https://mfaustin.github.io/ProjectOne558/](https://mfaustin.github.io/ProjectOne558/)
 
-My project one repo is at [https://github.com/mfaustin/ProjectOne558](https://github.com/mfaustin/ProjectOne558)    
+My project one github repo is at [https://github.com/mfaustin/ProjectOne558](https://github.com/mfaustin/ProjectOne558)    
 
 With all the tough times we've had the last year and a half, I decided to go with the pokemon API because it seemed more light hearted.  I had a big learning curve though because I'd never played or read much about pokemon before this project.  
 
