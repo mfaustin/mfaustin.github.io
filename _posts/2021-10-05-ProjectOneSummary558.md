@@ -11,7 +11,7 @@ My project one github repo is at [https://github.com/mfaustin/ProjectOne558](htt
 
 With all the tough times we've had the last year and a half, I decided to go with the pokemon API because it seemed more light hearted.  I had a big learning curve though because I'd never played or read much about pokemon before this project.  
 
-Thankfully the github parts of the assignment worked as expected without problems.  
+Thankfully the github parts of the assignment worked as expected without problems.  I did need to alter some formattting at the end so that output would appear as expected in the github doc.  
 
 I spent a few days just going through the pokemon documentation and learning what kind of data the API returns.  I also learned just enough about pokemon to understand the data.  I focused first on endpoints that appeared to have data that I could later use for analysis.  
 
