@@ -47,6 +47,6 @@ The other improvement I would make if I were starting over would be to do someth
 
 ## Conclusion  
 
-Before this project, the only API query I'd done was in the class homework.  I learned a lot about using R to interact with APIs and feel like I've still got more I could learn and apply in the future.  The hardest parts where the query and data wrangling parts.  The most fun and interesting parts where the data analysis section.  
+Before this project, the only API query I'd done was in the class homework.  I learned a lot about using R to interact with APIs and feel like I've still got more I could learn and apply in the future.  The hardest parts were the query and data wrangling parts.  The most fun and interesting parts were the data analysis section.  
 
 
