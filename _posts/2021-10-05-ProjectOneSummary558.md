@@ -3,7 +3,7 @@ layout: post
 title: Project One 558
 ---
 ## Project One Overview  
-For project one, I chose to work with the pokemon the [Pokemon API](https://pokeapi.co/) using [Pokemon API Documentation](https://pokeapi.co/docs/v2).  
+For project one, I chose to work with the [Pokemon API](https://pokeapi.co/) using [Pokemon API Documentation](https://pokeapi.co/docs/v2).  
 
 My project one github pages project is at [https://mfaustin.github.io/ProjectOne558/](https://mfaustin.github.io/ProjectOne558/)
 
@@ -11,7 +11,7 @@ My project one github repo is at [https://github.com/mfaustin/ProjectOne558](htt
 
 With all the tough times we've had the last year and a half with the pandemic, I decided to go with the pokemon API because it seemed more light hearted.  I had a big learning curve though because I'd never played or read much about pokemon before this project.  
 
-Thankfully the github parts of the assignment worked as expected without problems.  I did need to alter some formatting at the end so that output would appear as expected in the github doc.  
+Most of the github part of the project worked as expected.  However, I did run into some issues after we were able to change our repo to public and turn on github pages.  The formatting had been fine in the README.md file but some of it was garbled for the github page.  I needed to manully add more kable functions and change some ordered lists to unordered lists to make all formatting come out as expected.  
 
 I spent a few days just going through the pokemon documentation and learning what kind of data the API returns.  I also learned just enough about pokemon to understand the data.  I focused first on endpoints that appeared to have data that I could later use for analysis.  
 
