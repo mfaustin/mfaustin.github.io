@@ -2,7 +2,7 @@
 layout: post
 title: Class Reflection Post 558
 ---
-## What (if anything) has changed about what you think a data scientist is and what they do?
+### What (if anything) has changed about what you think a data scientist is and what they do?
 
 I had been wondering how much a data scientist role really is new compared to what had been called a statistician role.  
 
@@ -31,7 +31,7 @@ I've also noticed that different groups have different ideas of what skills and 
 
 In the end, it does seem like a data scientist and statistician role could be very similar or different depending on the context.  My observations have reinforced the idea that data science is truly interdisciplinary with statistics being just one part.
 
-## What your current thoughts are in terms of using R for data science - do you think you'll continue to use R going forward?  Why or why not?
+### What your current thoughts are in terms of using R for data science - do you think you'll continue to use R going forward?  Why or why not?
 
 R seems to be well suited for some aspects of data science.  Combining
 Tidyverse and R Markdown is an especially productive way to work with
@@ -59,7 +59,7 @@ each does better.
 After this class, I feel confident enough about R to add R to the
 languages I use on a regular basis.
 
-## What things are you going to do differently in practice now that you've had this course?
+### What things are you going to do differently in practice now that you've had this course?
 
 Before this class, I had not really used R Markdown and was only using
 R scripts.  Now that I've had lots of experience, I plan to switch
