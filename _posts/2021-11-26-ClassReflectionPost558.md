@@ -67,7 +67,7 @@ you've had this course?
 
 Before this class, I had not really used R Markdown and was only using
 R scripts.  Now that I've had lots of experience, I plan to switch
-from R scripts to R Markdown.
+from R scripts to R Markdown.  In addition to great reporting, I found R Markdown to be easier to use for code commenting than traditional R script comments.
 
 I'm also considering continuing to use Github for saving my work.  So
 far I've only used Github repos for the class projects. In the future
