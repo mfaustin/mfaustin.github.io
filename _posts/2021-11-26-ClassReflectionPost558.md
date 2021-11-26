@@ -29,7 +29,7 @@ they could obtain value from their data.
 
 I've also noticed that different groups have different ideas of what skills and abilities are needed for data science.  For example, at NCSU there are at least three different graduate programs in the analytics, computer science, and statistics groups with some degree of stated data science focus.  However, a graduate of these different programs could become a data scientist with very different emphasis on skills developed.
 
-In the end, it does seem like a data scientist and statistician role could be very similar or different depending on the context.  
+In the end, it does seem like a data scientist and statistician role could be very similar or different depending on the context.  My observations have reinforced the idea that data science is truly interdisciplinary with statistics being just one part.
 
 ## What your current thoughts are in terms of using R for data science - do you think you'll continue to use R going forward?  Why or why not?
 
